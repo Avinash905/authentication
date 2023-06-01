@@ -1,0 +1,5 @@
+20230530	07:59:15	3a868069-0d3f-4f68-97d4-92e0f2b179d0	ReferenceError: roles is not defined
+20230530	20:53:36	43eeee5a-67a0-4541-9835-eaff19bb8ef0	Error: Not allowed by CORS
+20230530	21:03:04	e5c81590-aded-450c-bcda-9d16789a9139	Error: Not allowed by CORS
+20230530	21:03:23	9cddc6df-50db-4f0f-ba70-2cc837388a54	Error: Not allowed by CORS
+20230530	21:03:24	4fd3b15e-cee5-47c0-b290-f1676ddd8b9e	Error: Not allowed by CORS

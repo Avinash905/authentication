@@ -1,0 +1,4 @@
+/auth_backend/.env
+/auth_backend/node_modules
+/react_auth_frontend/node_modules
+/redux_toolkit_auth_frontend/node_modules
